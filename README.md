@@ -1,7 +1,7 @@
 # troisieme
 
-- Kotlin
-- Maven
+- Kotlin - java 21
+- Maven - mvn clean install -DskipTests
 - Spring boot
 
   1. First we will convert application.properties for application.yml
