@@ -14,4 +14,5 @@ Once we’ve installed the plugin, we:
 Right-click on the application.properties file
 Select the option “Convert YAML and Properties file” to convert the file to application.yml automatically
 
-  2. 
+  2. Database access
+http://localhost:7878/context-path/h2-console
